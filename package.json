@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-express-sequelizejs",
+  "version": "1.0.0",
+  "description": "nodejs-express-sequelizejs-mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs-Express-SequelizeJs"
+  ],
+  "author": "Hamdy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.6",
+    "pg": "^7.6.1",
+    "pg-hstore": "^2.3.2"
+  }
+}
